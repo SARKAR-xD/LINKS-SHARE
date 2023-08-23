@@ -43,35 +43,15 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first} & Welcome To [TIF] Links Bot
-
-📌Join our other Channels
-@TIF_TvSeries1 🌹 @TIF_WebSeries 
-@TIF_Moviez 🌹 @TIF_Anime
-
-📌Our Discussion Group
-@TIFDiscuss 🌹 @TIF_OTs 🌹 @TIFRequests
-
-📌Our Store
-@TIF_Shoppie 🌹 @TIF_Vouches
-
-📌 Follow us on Instagram 
-https://instagram.com/tif_network?igshid=YmMyMTA2M2Y="
+      "value": "hello hui"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}
-
-<b>To use me, You need to join 
-"[TIF] Network @TIF_Network"
-
-Join the Channel and press 'start' again</b>"
+      "value": "hello hui hui"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "1014734769 692926828 878419316 992923461 1232710616 989451380
-994884531 1548692630 1372828370 1428191214 1399513864 1059440698
-1141611406 846915783 1365187878  772094614 1842073219 724516516 1988210787 1626129666 1545262687 838912777  1250858488 1106954355 1170258624 1066681358 1626419978  831587397 1345552722 2129023041 2001837805",
+      "value": "daldo vai",
       "required": false
     },
     "PROTECT_CONTENT": {

@@ -15,15 +15,15 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "1407122915"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "5402921"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://Tosumemon:Tosumemon@cluster0.wnpcxp8.mongodb.net/?retryWrites=true&w=majority"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
@@ -31,7 +31,7 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "6ba38086ea0265fcf11b2d951bc47fda"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
@@ -39,19 +39,39 @@
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1001407122915"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\nI can store private files in Specified Channel and other users can access it from special link."
+      "value": "Hello {first} & Welcome To [TIF] Links Bot
+
+📌Join our other Channels
+@TIF_TvSeries1 🌹 @TIF_WebSeries 
+@TIF_Moviez 🌹 @TIF_Anime
+
+📌Our Discussion Group
+@TIFDiscuss 🌹 @TIF_OTs 🌹 @TIFRequests
+
+📌Our Store
+@TIF_Shoppie 🌹 @TIF_Vouches
+
+📌 Follow us on Instagram 
+https://instagram.com/tif_network?igshid=YmMyMTA2M2Y="
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}
+
+<b>To use me, You need to join 
+"[TIF] Network @TIF_Network"
+
+Join the Channel and press 'start' again</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "1014734769 692926828 878419316 992923461 1232710616 989451380
+994884531 1548692630 1372828370 1428191214 1399513864 1059440698
+1141611406 846915783 1365187878  772094614 1842073219 724516516 1988210787 1626129666 1545262687 838912777  1250858488 1106954355 1170258624 1066681358 1626419978  831587397 1345552722 2129023041 2001837805",
       "required": false
     },
     "PROTECT_CONTENT": {
